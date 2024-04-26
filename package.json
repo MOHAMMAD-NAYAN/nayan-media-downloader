@@ -1,0 +1,50 @@
+{
+  "name": "nayan-media-downloader",
+  "version": "2.1.7",
+  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-NAYAN-404/nayan-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "gdrive",
+    "drive link",
+    "google drive",
+    "pintarest",
+    "all media download",
+    "media download",
+    "nayan"
+  ],
+  "author": "NAYAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MR-NAYAN-404/nayan-downloader/issues"
+  },
+  "homepage": "https://github.com/MR-NAYAN-404/nayan-downloader#readme",
+  "dependencies": {
+    "got": "^11.8.3",
+    "cheerio": "~1.0.0-rc.5",
+    "axios": "^1.6.7",
+    "request": "^2.88.2"
+  }
+}
