@@ -116,7 +116,7 @@ console.log(URL)
 ## Example (Twitter)
 ```js
 const { twitterdown } = require("nayan-media-downloader")
-let URL = await ndown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
+let URL = await twitterdown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
 console.log(URL)
 ```
 ## Output Example (Twitter)
@@ -164,6 +164,33 @@ fbdown(link, cookie, key).then(data => {
     "audio": "https://video.fkul8-2.fna.fbcdn.net/v/t39.25447-2/428621206_935765774852656_1505609703629717781_n.mp4?_nc_cat=110&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfYXVkaW9fYWFjcF80OF9mbm9ybTE0X2ZyYWdfMl9hdWRpbyJ9&_nc_ohc=ZoKNtZHq6VUAX_r1QSE&_nc_ht=video.fkul8-2.fna&oh=00_AfAQ7FB2SUPfXGO-2yfIYWhQme4WTkD--g2mZ2anaVmS3A&oe=65DC7873"
 }
  ```
+## Example Fbdown2
+```js
+const { fbdown2 } = require("nayan-media-downloader");
+const request = require('request')
+
+const key = "Nayan" //dont change key
+
+const link = "url" //past video link
+
+fbdown2(link, key).then(data => {
+  console.log(data)
+});
+```
+## Output Example (fbdown2)
+```
+{
+    "developer": "MOHAMMAD NAYAN",
+    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devwp": "wa.me/+8801615298449",
+    "status": true,
+    "media": {
+               title: video title,
+                hd: Hd video link,
+                sd: normal video link
+              }
+}
+```
 
 ## Usage GDLink 
 ```js
@@ -186,5 +213,46 @@ const url = 'url' // pintarest post url
   console.log(data)
     });
 ```
+## Usage Pintarest 
+```js
+const {pintarest} = require("nayan-media-downloader");
 
+const url = 'url' // pintarest post url
+
+  pintarest(url).then(data => {
+  console.log(data)
+    });
+```
+## Usage All Media Down
+```bash
+support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive
+note: Let me know if any of the platforms you use are missing
+```
+```js
+const {alldown} = require("nayan-media-downloader");
+const url = 'url' // past url
+
+  alldown(url).then(data => {
+  console.log(data)
+    });
+```
+## Output Example (alldown)
+```
+{
+    "developer": "MOHAMMAD NAYAN",
+    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devwp": "wa.me/+8801615298449",
+    "status": true,
+    "media": {
+        "title": "video title",
+        "low": "normal video link",
+        "high": "hd video link"
+    }
+}
+```
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801615298449)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/www.xnxx.com169)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100000959749712)
+[![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/MR-NAYAN-404)
 
