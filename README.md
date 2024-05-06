@@ -10,7 +10,6 @@
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
 <img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-media-downloader?label=github&style=flat-square">
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img src="https://img.shields.io/npm/dm/nayan-media-downloader.svg?style=flat-square" alt="npm downloads"></a><br>
-[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-media-downloader)](https://socket.dev/npm/package/nayan-media-downloader) 
 [![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-media-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-media-downloader)
 
 ## Instalation :
