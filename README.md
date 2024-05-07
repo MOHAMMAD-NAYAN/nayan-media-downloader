@@ -222,6 +222,16 @@ const url = 'url' // pintarest post url
   console.log(data)
     });
 ```
+## Usage TeraBox 
+```js
+const { terabox } = require("nayan-media-downloader");
+
+const url = "link" // terabox link
+
+terabox(url).then(data => {
+  console.log(data)
+});
+```
 ## Usage All Media Down
 ```bash
 support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive
