@@ -222,19 +222,19 @@ const url = 'url' // pintarest post url
   console.log(data)
     });
 ```
-## Usage TeraBox 
+## Usage CapCut 
 ```js
-const { terabox } = require("nayan-media-downloader");
+const { capcut } = require("nayan-media-downloader");
 
-const url = "link" // terabox link
+const url = "link" // capcut link
 
-terabox(url).then(data => {
+capcut(url).then(data => {
   console.log(data)
 });
 ```
 ## Usage All Media Down
 ```bash
-support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive
+support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
