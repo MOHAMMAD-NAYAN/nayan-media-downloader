@@ -232,6 +232,15 @@ capcut(url).then(data => {
   console.log(data)
 });
 ```
+## Usage Likee 
+```js
+const { likee} = require("nayan-media-downloader");
+
+ const url = "link" // past url
+likee(url).then(data => { 
+  console.log(data) 
+});
+```
 ## Usage All Media Down
 ```bash
 support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut
