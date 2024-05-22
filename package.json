@@ -1,6 +1,6 @@
 {
   "name": "nayan-media-downloader",
-  "version": "2.2.8",
+  "version": "2.2.9",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest",
   "main": "src/index.js",
   "scripts": {
@@ -35,6 +35,7 @@
     "media download",
     "capcut",
     "likee",
+    "threads",
     "nayan"
   ],
   "author": "NAYAN",
