@@ -241,9 +241,18 @@ likee(url).then(data => {
   console.log(data) 
 });
 ```
+## Usage Threads
+```js
+const { threads } = require("nayan-media-downloader");
+
+ const url = "link" // past url
+threads(url).then(data => { 
+  console.log(data) 
+});
+```
 ## Usage All Media Down
 ```bash
-support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut
+support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee, threads
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
