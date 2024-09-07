@@ -55,7 +55,7 @@
     "miniget": "^4.2.3",
     "sax": "^1.4.1",
     "tough-cookie": "^4.1.4",
-    "undici": "five"
+    "undici": "^6.19.8",
     "ytdl-core": "^4.11.5"
   },
   "devDependencies": {
