@@ -112,6 +112,27 @@ console.log(URL)
     }
 }
 ```
+
+
+## YTDL USAGE
+```js
+const ytdl = require("nayan-media-downloader");
+
+const fs = require("fs")
+
+
+ytdl("https://youtu.be/_z1EfMNUqFs", {
+    filter: format =>
+        format.quality == 'tiny' && format.audioBitrate == 48 && format.hasAudio == true
+}).pipe(fs.createWriteStream("n.mp3"))
+
+ytdl("https://youtu.be/_z1EfMNUqFs").pipe(require("fs").createWriteStream("video.mp4"));
+
+ytdl.getInfo("https://youtu.be/_z1EfMNUqFs").then(info => {
+  console.log(info);
+});
+
+```
 ## Example (Twitter)
 ```js
 const { twitterdown } = require("nayan-media-downloader")
