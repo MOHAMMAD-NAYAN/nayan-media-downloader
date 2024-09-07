@@ -46,10 +46,24 @@
   "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
   "dependencies": {
     "got": "^11.8.3",
+    "http-cookie-agent": "^6.0.5",
     "cheerio": "~1.0.0-rc.5",
     "axios": "^1.6.7",
     "request": "^2.88.2",
     "millify": "^6.1.0",
+    "m3u8stream": "^0.8.6",
+    "miniget": "^4.2.3",
+    "sax": "^1.4.1",
+    "tough-cookie": "^4.1.4",
+    "undici": "five"
     "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.5.4"
+  },
+  "engines": {
+    "node": ">=14.0"
   }
 }
