@@ -212,16 +212,6 @@ const url = 'url' // pintarest post url
   console.log(data)
     });
 ```
-## Usage Pintarest 
-```js
-const {pintarest} = require("nayan-media-downloader");
-
-const url = 'url' // pintarest post url
-
-  pintarest(url).then(data => {
-  console.log(data)
-    });
-```
 ## Usage CapCut 
 ```js
 const { capcut } = require("nayan-media-downloader");
