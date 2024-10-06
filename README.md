@@ -58,6 +58,18 @@ console.log(URL)
     ]
 }
 ```
+## Instagram Usage 
+```js
+const {instagram} = require("nayan-media-downloader");
+
+const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==" //past video link
+
+  instagram(link).then(data => {
+
+    console.log(data)
+
+});
+```
 ## Example (TikTok)
 ```js
 const { tikdown } = require("nayan-media-downloader")
