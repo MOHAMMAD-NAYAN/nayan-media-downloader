@@ -12,9 +12,16 @@
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img src="https://img.shields.io/npm/dm/nayan-media-downloader.svg?style=flat-square" alt="npm downloads"></a>
 [![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-media-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-media-downloader)
 
+[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-media-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
+
 ## Instalation :
 ```bash
 > npm i nayan-media-downloader
+```
+## Last Update 
+```print
+• Instragram (new add)
+• Capcut (error fix)
 ```
 
 ## Example (fb & insta)
