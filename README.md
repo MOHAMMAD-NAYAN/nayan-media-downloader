@@ -20,8 +20,7 @@
 ```
 ## Last Update 
 ```print
-• Instragram (new add)
-• Capcut (error fix)
+• ytdown (fix)
 ```
 
 ## Example (fb & insta)
