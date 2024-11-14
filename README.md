@@ -20,7 +20,8 @@
 ```
 ## Last Update 
 ```print
-• ytdown (fix)
+• pintarest (fix)
+• capcut (fix)
 ```
 
 ## Example (fb & insta)
@@ -113,22 +114,6 @@ console.log(URL)
 const { ytdown } = require("nayan-media-downloader")
 let URL = await ytdown("https://youtu.be/aRSuyrZFu_Q?si=bsfzgeeGmRpsHqnF")
 console.log(URL)
-```
-## Output Example (youtube)
-```
-{
-    "developer": "MOHAMMAD NAYAN",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
-    "devwp": "wa.me/+8801615298449",
-    "status": true,
-    "data": {
-        "title": "#black status#sad yt ariful#sad tiktok#short#2022🥀💔",
-        "author": "SAD YT ARIFUL",
-        "published": "vor 1 Jahr",
-        "picture": "https://img.youtube.com/vi/XriHHLCGbFI/hqdefault.jpg",
-        "video": "https://smvd-videos-downloader.ugo-code-studio.workers.dev/download?t=aHR0cHM6Ly9ycjMtLS1zbi1wNXFsc25kei5nb29nbGV2aWRlby5jb20vdmlkZW9wbGF5YmFjaz9leHBpcmU9MTcwNDU3MjU2OCZlaT1PR0taWmJHeklvUEk2ZHNQZzdDTzZBZyZpcD0yYTAyJTI1M0FjMjA2JTI1M0EzMDEyJTI1M0E5ODklMjUzQTE1MjElMjUzQTVjNjAlMjUzQTEwOGIlMjUzQWI5YzQmaWQ9by1BQ2E0RXJ5RGJQTTRRRjJmNUFlNnFZVlU0NTJtdUlVZGh6cmdvUlBxeVR3aSZpdGFnPTE4JnNvdXJjZT15b3V0dWJlJnJlcXVpcmVzc2w9eWVzJnhwYz1FZ1ZvMmFEU05RJTI1M0QlMjUzRCZtaD0tUiZtbT0zMSUyNTJDMjYmbW49c24tcDVxbHNuZHolMjUyQ3NuLWE1bWVrbjZsJm1zPWF1JTI1MkNvbnImbXY9dSZtdmk9MyZwbD01MSZzcGM9VVdGOWZ3TlJZQ1IyRFJORlNCUi12cC16S3BUR3RfWSZ2cHJ2PTEmc3ZwdWM9MSZtaW1lPXZpZGVvJTI1MkZtcDQmY25yPTE0JnJhdGVieXBhc3M9eWVzJmR1cj03LjQwNyZsbXQ9MTY5OTUzNjc5NTE5ODQ4NiZtdD0xNzA0NTUwMzg3JmZ2aXA9NCZmZXhwPTI0MDA3MjQ2JmM9QU5EUk9JRCZ0eHA9NjMxMDIyNCZzcGFyYW1zPWV4cGlyZSUyNTJDZWklMjUyQ2lwJTI1MkNpZCUyNTJDaXRhZyUyNTJDc291cmNlJTI1MkNyZXF1aXJlc3NsJTI1MkN4cGMlMjUyQ3NwYyUyNTJDdnBydiUyNTJDc3ZwdWMlMjUyQ21pbWUlMjUyQ2NuciUyNTJDcmF0ZWJ5cGFzcyUyNTJDZHVyJTI1MkNsbXQmc2lnPUFKZlFkU3N3UmdJaEFKM1I3dWt6VE5IM19wOWFaRnV2VHBpM2Vhc0FHdTVtc0JNVGxydGpJMEw2QWlFQXlUN2E1bnBjRld3OTVYUFNCOFRRV3ZOTTdzYkxtN01OblJ6Nll6LWtuaEElMjUzRCZsc3BhcmFtcz1taCUyNTJDbW0lMjUyQ21uJTI1MkNtcyUyNTJDbXYlMjUyQ212aSUyNTJDcGwmbHNpZz1BQU81VzRvd1JRSWhBTjNFS2M0Q0NWcC0zTzJVSFFpYWhEYlk3N0FzSVdxcnZqMEZFTU5OUzRma0FpQkFrbENURXNqeV9UNktaTDJQS2xHUnhjVW5neGFQN0JwZkU5a3k0TG9OWEElMjUzRCUyNTNEJmhvc3Q9cnIzLS0tc24tcDVxbHNuZHouZ29vZ2xldmlkZW8uY29t&filename=%23black+status%23sad+yt+ariful%23sad+tiktok%23short%232022%F0%9F%A5%80%F0%9F%92%94+%28smvd.app%29"
-    }
-}
 ```
 ## Example (Twitter)
 ```js
