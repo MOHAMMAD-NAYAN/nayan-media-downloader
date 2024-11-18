@@ -22,6 +22,7 @@
 ```print
 • pintarest (fix)
 • capcut (fix)
+• ytdown (fix)
 ```
 
 ## Example (fb & insta)
