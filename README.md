@@ -10,6 +10,7 @@
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-media-downloader.svg?style=flat-square"></a>
 <img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-media-downloader?label=github&style=flat-square">
 <a href="https://www.npmjs.com/package/nayan-media-downloader"><img src="https://img.shields.io/npm/dm/nayan-media-downloader.svg?style=flat-square" alt="npm downloads"></a>
+[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-media-downloader/2.6.7)](https://socket.dev/npm/package/nayan-media-downloader/overview/2.6.7)
 [![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-media-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-media-downloader)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-media-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-media-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
