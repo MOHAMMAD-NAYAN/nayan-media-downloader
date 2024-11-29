@@ -1,5 +1,5 @@
 {
-  "name": "nayan-video-downloader",
+  "name": "nayan-media-downloader",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "src/index.js",
