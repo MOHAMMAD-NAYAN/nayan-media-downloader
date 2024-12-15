@@ -229,6 +229,7 @@ const url = 'url' // past url
     "status": true,
     "media": {
         "title": "video title",
+        "thumbnail": "thumbnail link",
         "low": "normal video link",
         "high": "hd video link"
     }
