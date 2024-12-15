@@ -7,13 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-<a href="https://www.npmjs.com/package/nayan-videos-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/nayan-videos-downloader.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/MOHAMMAD-NAYAN/nayan-videos-downloader?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/nayan-videos-downloader"><img src="https://img.shields.io/npm/dm/nayan-videos-downloader.svg?style=flat-square" alt="npm downloads"></a>
-[![Socket Badge](https://socket.dev/api/badge/npm/package/nayan-videos-downloader/2.6.7)](https://socket.dev/npm/package/nayan-videos-downloader/overview/2.6.7)
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/nayan-videos-downloader/badge)](https://www.jsdelivr.com/package/npm/nayan-videos-downloader)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/MOHAMMAD-NAYAN/nayan-videos-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/MOHAMMAD-NAYAN/nayan-videos-downloader)](https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader/issues) [![HitCount](https://views.whatilearened.today/views/github/MOHAMMAD-NAYAN/nayan-videos-downloader.svg)](https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader) [![creator nayan69.vercel.app](https://img.shields.io/website-up-info-green-red/http/nayan69.vercel.app/creative-profile-readme.svg)](https://nayan69.vercel.app/)
 
 ## Instalation :
 ```bash
