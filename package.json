@@ -1,5 +1,5 @@
 {
-  "name": "nayan-media-downloader",
+  "name": "nayan-videos-downloader",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader.git"
+    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader.git"
   },
   "keywords": [
     "instagram",
@@ -41,15 +41,11 @@
   "author": "NAYAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
+    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader/issues"
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
+  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-videos-downloader#readme",
   "dependencies": {
-    "got": "^11.8.3",
-    "cheerio": "~1.0.0-rc.5",
-    "axios": "^1.6.7",
-    "request": "^2.88.2",
-    "millify": "^6.1.0"
+    "axios": "^1.6.7"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
@@ -57,6 +53,6 @@
     "typescript": "^5.5.4"
   },
   "engines": {
-    "node": ">=14.0"
+    "node": ">=16.0"
   }
 }
