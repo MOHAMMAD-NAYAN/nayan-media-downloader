@@ -133,7 +133,6 @@ console.log(URL)
 ## Example Fbdown2
 ```js
 const { fbdown2 } = require("nayan-videos-downloader");
-const request = require('request')
 
 const key = "Nayan" //dont change key
 
